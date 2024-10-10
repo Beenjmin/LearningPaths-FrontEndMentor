@@ -1,12 +1,12 @@
 # Frontend Mentor - QR code component solution
 
-Primeira solução criada para o desafio QR Code component fornecida pelo FrontEnd Mentor atraves do seguimento Learning Paths.
-- O desafio consiste na criação de uma página estática com um conteiner de conteúdo fornecendo a imagem de QR Code e uma descrição abaixo dele. Design encontra-se abaixo.
+First solution created for the QR Code component challenge provided by FrontEnd Mentor through the Learning Paths program.  
+- The challenge consists of creating a static page with a content container providing the QR Code image and a description below it. The design is shown below.
 
 ![design page QR COde componente](./preview.jpg)
 
 ### Links
-Solução do projeto encontra-se hospedada pelo Vercel pelo seguinte link abaixo:
+The project solution is hosted on Vercel at the following link below:
 
 Vercel: [https://qrcode-page.vercel.app/](https://qrcode-page.vercel.app/)
 
@@ -16,11 +16,11 @@ Vercel: [https://qrcode-page.vercel.app/](https://qrcode-page.vercel.app/)
 
 ### What I learned
 
-Foi meu primeiro projeto prático envolvendo criação de páginas a partir do zero, como um desafio pra mim. Consegui, ao todo, colocar em prática parte do conhecimento adquirido sobre FrontEnd até agora, contemplando quase todo cenário da criação da solução.
-Consegui colocar em pratica alguns fundamentos de posicionamento e praticar melhor soluções envolvendo imagens, voltando para a utilização do `background-imagem` em CSS.
-A solução não apresenta uso do FlexBox ou grid para manipulação de posicionamento por escolha própria, para praticar centralização de objetos de outras formas.
+This was my first practical project involving creating pages from scratch, as a challenge for myself. I was able to put into practice some of the knowledge I’ve acquired about FrontEnd so far, covering almost all aspects of the solution creation.   
+I managed to apply some positioning fundamentals and practice better solutions involving images, focusing on the use of `background-image` in CSS.  
+The solution does not use FlexBox or Grid for positioning manipulation by choice, as I wanted to practice object centering in other ways.
 
-Meu principal desafio foi criar o conteiner principal e sua estilização e centralização, para que os elementos dentro dele ficassem da maneira certa.
+My main challenge was creating the main container and its styling and centering, so the elements inside it would be positioned correctly.
 
 ```CSS:
 .centerConteiner{
@@ -39,7 +39,7 @@ Meu principal desafio foi criar o conteiner principal e sua estilização e cent
 ```
 
 ### Autor:
-Benjamin Marcos
+Benjamin Marcos  
 Github: [https://github.com/Beenjmin](https://github.com/Beenjmin)
 
 ---
