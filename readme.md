@@ -4,6 +4,7 @@ Repository dedicated to hosting the solutions for the projects related to the Le
 
 ### Folder Guide
 Within the Learning Paths folder, you can find the folders that show the solutions for each challenge, organized in the order they were announced by the platform.  
+Each folder contains the files used, showcasing the solution for each project in code. Additionally, each project folder has its own readme.md file, which includes the project description as well as the hosting link for the website that was created (in most cases).
 
 ### Autor:
 Benjamin Marcos  
